@@ -1,0 +1,3 @@
+Full stack developer: A full stack developer is a web developer that cab perform both front and back end operations and has a rich comprehensive set of skills, programming language and ploblem solving attitude. A full Stack developer is concern about Data as presented, motion and rest.
+Languages Include: Html, css, javescript, React, Angular,bootstrap, php, java, python, ctt, c, sql, MongoDB, Node.js and more
+Tools Include: Github, Vscode, codepen, slack and more
